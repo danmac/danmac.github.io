@@ -1,2 +1,1 @@
-# danmac.github.io
-user site
+My personal site.
