@@ -100,15 +100,23 @@
             display: block;
             padding-bottom: 5px;
         }
+        
+        .current {
+            border-bottom: none;
+        }
 
         .page-link {
             display: block;
             padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
+            color: $text-color;
+            padding: 0px;
+            
+            &:hover {
+                border-bottom: none;
             }
+
             margin-left: 20px;
+            margin-right: 20px;
         }
     }
 }
