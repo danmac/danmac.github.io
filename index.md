@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Dan MacLeod
 permalink: /
 ---
 
@@ -17,7 +17,7 @@ and pre-empting solutions.
 
 Mainly developing using HTML/JavaScript/CSS on the frontend and PHP/MySQL on the backend, I was the 
 goto when people needed to disseminate training or knowledge to our consumer staff. In the last 18 months 
-I have also been the primary UI designer for a replacement Knowledge portal, suing CSS and JavaScript to 
+I have also been the primary UI designer for a replacement Knowledge portal, using CSS and JavaScript to 
 build wireframes that are then implemented by the backend developers.
 
 In my free-time I build things for myself, using Raspberry Pis to hack my Apple TVs, LIFX lights and 
